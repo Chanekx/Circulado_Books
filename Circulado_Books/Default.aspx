@@ -9,11 +9,16 @@
         }
 
         main {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/Images/homeimage.png');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-color: #f0f2f5; 
+
 
         section {
             background-color: white;
